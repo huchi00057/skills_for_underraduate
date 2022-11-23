@@ -25,5 +25,16 @@
 ## 5.該一章節或者段落的重點請用加粗mark起來
 ![image](https://user-images.githubusercontent.com/46515944/203546182-dcfc23e6-5ede-4be1-ad24-81f63f319e6f.png)
 
-## 6.
+## 6.如果 tab 遇到問題-排版問題
+去調整上方尺規
+![image](https://user-images.githubusercontent.com/46515944/203546552-f3fa4c68-2fb5-45c0-960f-8813340a9b63.png)
+
+## 7.標點符號請使用**全形**❎不要出現,或:
+你可以用取代，把全文的半形給替換掉
+![image](https://user-images.githubusercontent.com/46515944/203546870-b9d9fe81-243f-4d08-b384-05ac821fb10f.png)
+
+## 8.次標題請新增前後段空間
+沒錯!!兩個都要!!這樣你的排版才不會很擠
+![image](https://user-images.githubusercontent.com/46515944/203547029-f8a8628a-4f41-4d71-8fed-a38b2ad24f9d.png)
+
 
